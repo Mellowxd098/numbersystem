@@ -43,5 +43,8 @@ simplly choose which conversation you wanna
 
 `OcatlToDecimal = otd`
 
+<p>
+<img src="https://telegra.ph/file/71b7fc72ef65cc46d0fa3.jpg" </p>
 
+ 
 
