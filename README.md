@@ -19,3 +19,29 @@ This is a very easy python programms to convert binarys to decimal and vice vers
 ##  Now simply start it by using 
 
 `* [+] bash c.sh`
+
+## Usage
+
+simplly choose which conversation you wanna 
+`BinaryToDecimal = btd`
+
+`BinaryToOcatl = bto`
+
+`DecimalToHexa-Decimal = dth`
+
+`Hexa-DecimalToBinary = htb`
+
+`OctalToBinary = otb`
+
+`BinaryToHexa-Decimal = bth`
+
+`DecimalToBinary = dtb`
+
+`DecimalToOctal = dto`
+
+`Hexa-DecimalToDecimal = htd`
+
+`OcatlToDecimal = otd`
+
+
+
