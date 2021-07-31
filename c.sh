@@ -6,7 +6,7 @@ cd numbersystem
 cd conv
 ls
 clear
-e
+ls
 echo "choose the conversation"
 read FILE
 python $FILE.py
